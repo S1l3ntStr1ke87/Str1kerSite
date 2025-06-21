@@ -36,14 +36,16 @@ button:active {
   transform: translateY(4px);
 }
 body {
-  background-image: url('./img/bg.gif');
+  background-image: url('../img/bg.gif');
   background-attachment: fixed;
   background-position: center;
 }
 footer {
   background-color: #F1F1F1;
   text-align: center;
-  padding: 10px;
+  padding: 0px;
+  margin: 0px;
+  outline: none;
 }
 
 a.button {
@@ -61,9 +63,29 @@ a.button {
   font-family: verdana;
 }
 
-a.button:hover {background-color: #3e8e41}
+a.button:hover {
+    background-color: #3e8e41;
+}
 
 a.button:active {
   background-color: #3e8e41;
   transform: translateY(4px);
+}
+
+DT {
+  display: none;
+}
+
+h1 {
+  display: block;
+  text-align: center;  
+  color: white;
+  font-family: verdana;
+  font-size: 25px;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-family: Brush Script MT;
 }
