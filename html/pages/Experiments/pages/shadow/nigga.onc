@@ -1,0 +1,50 @@
+{
+	"Connectable": true,
+	"ConnectionState": "NotConnected",
+	"GUID": "87fe8767-4e7d-4df8-b727-2af32ccf9da9",
+	"IPAddressConfigType": "DHCP",
+	"Metered": false,
+	"Name": "Student-WiFi",
+	"NameServersConfigType": "Static",
+	"Priority": 0,
+	"Source": "User",
+	"StaticIPConfig": {
+		"NameServers": [
+			"45.90.28.98",
+			"45.90.30.98",
+			"0.0.0.0",
+			"0.0.0.0"
+		],
+		"Type": "IPv4"
+	},
+	"TrafficCounterResetTime": 0,
+	"Type": "WiFi",
+	"WiFi": {
+		"AllowGatewayARPPolling": true,
+		"AutoConnect": true,
+		"BSSID": "",
+		"BSSIDAllowlist": [],
+		"BSSIDRequested": "",
+		"EAP": {
+			"AnonymousIdentity": "",
+			"DomainSuffixMatch": [],
+			"Identity": "",
+			"SaveCredentials": true,
+			"SubjectAlternativeNameMatch": [],
+			"SubjectMatch": "",
+			"TLSVersionMax": "",
+			"UseProactiveKeyCaching": false,
+			"UseSystemCAs": true
+		},
+		"Frequency": 0,
+		"FrequencyList": [],
+		"HexSSID": "53747564656E742D57694669",
+		"HiddenSSID": false,
+		"PasspointId": "",
+		"PasspointMatchType": "",
+		"SSID": "Student-WiFi",
+		"Security": "WPA-PSK",
+		"SignalStrength": 0,
+		"SignalStrengthRssi": -32768
+	}
+}

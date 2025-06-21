@@ -1,0 +1,70 @@
+h1 {
+    color: white;
+    text-align: center;
+  }
+
+  h2 {
+    color: white;
+    text-align: center;
+    font-family: Brush Script MT;
+  }
+
+  h4 {
+    color: white;
+    text-align: center;
+    font-family: Brush Script MT;
+  }
+  
+  button {
+    display: inline-block;
+    padding: 7.5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 10px;
+    
+  }
+  
+  button:hover {background-color: #3e8e41}
+  
+  button:active {
+    background-color: #3e8e41;
+    transform: translateY(4px);
+  }
+  body {
+    background-image: url('../img/bg.gif');
+    background-attachment: fixed;
+    background-position: center;
+  }
+  footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  a.button {
+    display: inline-block;
+    padding: 7px 10px;
+    font-size: 14.5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 10px;
+    font-family: verdana;
+  }
+  
+  a.button:hover {background-color: #3e8e41}
+  
+  a.button:active {
+    background-color: #3e8e41;
+    transform: translateY(4px);
+  }
