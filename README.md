@@ -1,4 +1,5 @@
-<h1 align="center">Str1k3rSite</h1>
+<h1 align="center">Str1k3rSite
+game site that can run with nginx or any web hosting or file://</h1>
 
 <h1>game site that can run with nginx or any web hosting or file://</h1>
 
