@@ -3,7 +3,7 @@
 <h1 align="center">Str1k3rSite</h1>
 
 > [!CAUTION]
-> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [Str1k3r Central](https://github.com/S1l3ntStr1ke87/str1k3r-central/). This will no longer be updated if you want anything added make a pull request with what you want added.
+> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [Str1k3r Central](https://github.com/S1l3ntStr1ke87/str1k3r-central/). This will no longer be updated if you want anything added make a pull request with what you want added and or fixed.
 
 
 
