@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/S1l3ntStr1ke87/str1k3r-central/refs/heads/main/public/assets/logo.webp" height="200"></p>
+
 <h1 align="center">Str1k3rSite</h1>
 
 > [!CAUTION]
