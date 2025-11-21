@@ -1,7 +1,10 @@
 <div align='center'>
 
 <h1>game site that can run with nginx or any web hosting or file://</h1>
-<p>game site that can run with nginx or any web hosting or file:// warning project is abandoned if you want to add or fix something make a pull requests with steps to do it</p>
+<p>game site that can run with nginx or file://</p>
+
+> [!CAUTION]
+> Please note that this project isn't really maintained anymore before making issues! It has been superseded by [Str1k3r Central](https://github.com/S1l3ntStr1ke87/str1k3r-central/). This will no longer be updated if you want anything added make a pull request with what you want added.
 
 
 
@@ -14,10 +17,3 @@
 
 ## :star2: About the Project
 
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#209e5f](https://via.placeholder.com/10/209e5f?text=+) #209e5f |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
